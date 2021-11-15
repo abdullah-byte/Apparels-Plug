@@ -5,6 +5,7 @@
     }
     body{
         max-height: fit-content;
+       margin-bottom: 0%
     
     }
 }
@@ -14,6 +15,8 @@ body{
     display: grid;
     justify-content: center;
     background-color: black;
+    margin-bottom: 0%
+    
 }
 .img{
     border-radius: 50%;
